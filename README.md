@@ -12,6 +12,13 @@ Install using [npm](https://www.npmjs.com/)
 
 `npm install -g openprovider-dnslookup`
 
+You will need to set two environment variables
+These can be found at the [rcp panel](https://rcp.openprovider.eu/account/account-overview.php)
+
+`OPENPROVIDERUSER=username`
+
+`OPENPROVIDERHASH=hash`
+
 Example lookup using full domain name
 
 `opdns example.com`
