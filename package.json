@@ -11,7 +11,7 @@
     "dns"
   ],
   "author": "Tim Neutkens",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/timneutkens/openprovider-dnslookup"
