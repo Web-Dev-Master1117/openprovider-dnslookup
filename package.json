@@ -12,6 +12,10 @@
   ],
   "author": "Tim Neutkens",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timneutkens/openprovider-dnslookup"
+  },
   "dependencies": {
     "better-console": "^0.2.4",
     "bluebird": "^3.1.5",
