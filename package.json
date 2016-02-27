@@ -1,6 +1,6 @@
 {
   "name": "openprovider-dnslookup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Look up domain in openprovider nameservers",
   "main": "cli.js",
   "bin": {
