@@ -17,9 +17,11 @@
     "url": "https://github.com/timneutkens/openprovider-dnslookup"
   },
   "dependencies": {
-    "better-console": "^0.2.4",
     "bluebird": "^3.1.5",
+    "cli-table": "^0.3.1",
+    "object-values": "^1.0.0",
     "openprovider": "0.0.1",
+    "ora": "^0.3.0",
     "progress": "^1.1.8"
   },
   "devDependencies": {
